@@ -18,3 +18,9 @@ How can you help?
    - I suspect that our current eqemu xp formulas are incorrect. I have no proof that is not purely anacdotal. The numbers given by classic posts do not line up with ours cleanly, but they do scale logically.
    - Should all drops be investigated if possible?
    - Other ideas welcome (:
+
+Helpful links
+
+https://web.archive.org/web/20000304030515fw_/http://www.eqtraders.com/index.html
+https://web.archive.org/web/20000611045515/http://everquest.allakhazam.com/
+http://web.archive.org/web/19990508113824/http://www.everlore.com/
